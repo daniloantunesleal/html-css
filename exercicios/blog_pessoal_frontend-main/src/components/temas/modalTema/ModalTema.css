@@ -1,0 +1,32 @@
+
+.btn-novo-tema{
+    border-top:solid 5px #FFaaFF!important;
+    border-left:solid 5px #FF00aa!important;
+    background-color: #FF00FF!important;
+    border-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+}
+
+.btn-novo-tema:hover{
+    border-top:solid 0px #ff0000!important;
+    border-left:solid 0px #ff0000!important;
+    background-color: #FF00FF!important;
+    border-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    
+}
+
+
+.cursor{
+    cursor: pointer;
+}
+
+.close{
+    color: #00ffff;
+}

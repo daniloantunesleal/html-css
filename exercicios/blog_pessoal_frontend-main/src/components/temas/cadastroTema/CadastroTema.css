@@ -1,0 +1,68 @@
+.btn-finalizar{
+    border-top:solid 5px #00FFaa!important;
+    border-left:solid 5px #029e0a!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    height: 6vh!important;
+    margin-top: 2vh!important;
+    margin-bottom: 2vh!important;
+    text-decoration: none!important;
+    width: 10vw!important;
+}
+
+.btn-finalizar:hover{
+    border-top:solid 0px #029e0a!important;
+    border-left:solid 0px #029e0a!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+}
+
+.form-box{
+    width: 90%;
+    margin-left: 6%;
+}
+
+.titulo-cad-tema{
+    color: #00FFFF!important;
+    font-weight: bold!important;
+    margin: 1%!important;
+    margin-bottom: 5%!important;
+    min-width: 500px!important;
+}
+
+.tema-container{
+    background-image: url(../../../assets/img/background-diverso-transparencia.svg);
+    background-color: #000000;
+    background-size: 70vh;
+    min-width: 100%;
+    min-height: calc(90vh - 195px);
+    display: flex!important;
+    align-items: center!important;
+    justify-content: center!important;
+    
+} 
+
+
+.textfiels-cad-tema{
+    color: #000000!important;
+    background-color: #ffffff!important;
+    border-radius: 6px!important;
+}
+
+.MuiFormLabel-root{
+    color:#000000!important;
+    padding-left: 10px;
+}
+
+

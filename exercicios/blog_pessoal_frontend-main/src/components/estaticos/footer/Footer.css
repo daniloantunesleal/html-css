@@ -1,0 +1,28 @@
+.box1{
+    background-color: #1c1c1c !important; 
+    height: 120px !important;
+}
+
+.redes{
+    font-size: 60px!important;
+    color: #00FFFF;
+}
+
+.box2{
+    background-color: #00FFFF !important; 
+    height: 60px !important;
+}
+
+.siga-nos{
+    color: #00FFFF!important;
+    text-decoration: none!important;
+}
+
+.link-footer{
+    color: #000000!important;
+    text-decoration: none!important;
+}
+
+a{
+    text-decoration: none!important;
+}

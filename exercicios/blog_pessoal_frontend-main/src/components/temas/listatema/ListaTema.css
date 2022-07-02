@@ -1,0 +1,106 @@
+.btn-atualizar-tema{
+    border-top:solid 5px #00FFaa!important;
+    border-left:solid 5px #029e0a!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+}
+
+.btn-atualizar-tema:hover{
+    border-top:solid 0px #029e0a!important;
+    border-left:solid 0px #029e0a!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+}
+
+.btn-deletar-tema{
+    border-top:solid 5px #FFaaFF!important;
+    border-right:solid 5px #FF00aa!important;
+    background-color: #FF00FF!important;
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;  
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important; 
+    margin-left: 10px!important;
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+}
+
+.btn-deletar-tema:hover{
+    border-top:solid 0px #ff0000!important;
+    border-right:solid 0px #ff0000!important;
+    background-color: #FF00FF!important;
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;  
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+
+}
+
+.caixa-modal{
+    margin-top: 20px!important;
+    text-align: center!important;
+}
+
+.caixa-cards{
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;   
+    margin-left: 5px!important;
+    margin-right: 5px!important;  
+}
+
+.card-style{
+    backdrop-filter: blur(6px)!important;
+    background-color: transparent!important;
+    border-left: solid 1px #00FFFF!important;
+    border-bottom: solid 1px #00FFFF!important;
+}
+
+.container-lista-temas{
+    background-image: url(../../../assets/img/background-diverso-transparencia.svg);
+    background-color: #000000;
+    background-size: 70vh!important;
+    min-height: calc(90vh - 180px);
+}
+
+.MuiTypography-h4 {
+    font-weight: bolder!important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.titulo-lista-tema{
+    margin-top: 20px!important;
+    text-align: center!important;
+    color: #00FFFF!important;
+}
+
+.titulo-tema{
+    color: #FF00FF!important;
+    font-weight: bold!important;
+    text-align: center;
+}
+
+
+

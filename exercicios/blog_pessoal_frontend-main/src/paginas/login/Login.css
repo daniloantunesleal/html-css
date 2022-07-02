@@ -1,0 +1,96 @@
+.btn-logar{
+    border-top:solid 5px #88ffff!important;
+    border-right:solid 5px #00CCFF!important;
+    background-color: #00FFFF!important;
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;  
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+}
+
+.btn-logar:hover{
+    border-top:solid 0px #88ffff!important;
+    border-right:solid 0px #00FFAA!important;
+    background-color: #00FFFF!important;
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;  
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    
+}
+
+.caixa-fundo{
+    background-color: #000000;
+    border-radius: 6px;
+    display: flex;
+    height: 60vh!important;
+    justify-content: center!important;
+    margin-top: 20vh;
+    opacity: 0.8;
+
+}
+
+
+.center-grid{
+    align-items: center!important;
+    backdrop-filter: blur(50px)!important;
+    background-size: cover;
+    border: solid #00FFFF 1px;
+    border-radius: 6px;
+    display: flex;
+    height: 60vh;
+    justify-content: center!important;
+    margin-top: 20vh;
+    padding: 5vh;
+}
+
+.form-login{
+    align-items: center!important;
+    justify-content: center!important;
+    
+}
+
+.imagem{
+    background-image: url(../../assets/img/background-analitic.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #00FFFF;
+    min-height: 100vh;
+    width: 100vh; 
+}
+.pergunta{
+    color: #00FFff;
+    
+}
+.textos{
+    color: #00ffaa !important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+
+}
+
+.text-decorator-none{
+    text-decoration: none!important;
+}
+
+
+.textfields-login{
+    width: 100%!important;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.titulo-login{
+    color: #00FFFF!important;
+    font-weight: bold!important;
+
+}

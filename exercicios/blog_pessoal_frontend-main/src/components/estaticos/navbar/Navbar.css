@@ -1,0 +1,31 @@
+.caixa-nav{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.cursor-navbar{
+    cursor: pointer!important;
+    color: #00ffff!important;
+    font-weight: bold!important;
+    font-size: 20px!important;
+    
+}
+
+.logo{
+    background-image: url(../../../assets/img/logo.svg);
+    min-height: 10vh;
+    width: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    cursor: pointer!important;
+}
+
+.navBar-style{
+    background-color: #1c1c1c!important;
+}
+.text-decorator-none{
+    text-decoration: none;
+}

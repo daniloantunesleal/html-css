@@ -1,0 +1,111 @@
+.btn-cadastrar{
+    border-top:solid 5px #00FFaa!important;
+    border-left:solid 5px #029e0a!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+}
+
+.btn-cadastrar:hover{
+    border-top:solid 0px #029e0a!important;
+    border-left:solid 0px #029e0a!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+}
+
+.btn-cancelar{
+    border-top:solid 5px #FFaaFF!important;
+    border-right:solid 5px #FF00aa!important;
+    background-color: #FF00FF!important;
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;  
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important; 
+    margin-left: 10px!important;
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+}
+
+.btn-cancelar:hover{
+    border-top:solid 0px #ff0000!important;
+    border-right:solid 0px #ff0000!important;
+    background-color: #FF00FF!important;
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;  
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    height: 6vh!important;
+
+}
+
+.caixa-fundo{
+    background-color: #000000;
+    border-radius: 6px;
+    display: flex;
+    height: 60vh!important;
+    justify-content: center!important;
+    margin-top: 20vh;
+    opacity: 0.8;
+
+}
+
+
+.center-grid-cad{
+    align-items: center!important;
+    backdrop-filter: blur(50px)!important;
+    background-size: cover;
+    border: solid #ff00ff 1px;
+    border-radius: 6px;
+    display: flex;
+    height: 80vh;
+    justify-content: center!important;
+    margin-top: 5vh;
+    padding: 5vh;
+}
+
+.form-cadastro{
+    align-items: center!important;
+    justify-content: center!important;
+    
+}
+
+.imagem-cad{
+    background-image: url(../../assets/img/background-creative.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #ff00ff;
+    min-height: 100vh;
+    width: 100vh; 
+}
+
+
+.textfields-cadastro{
+    width: 100%!important;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.titulo-cadastro{
+    color: #ff00ff!important;
+    font-weight: bold!important;
+
+}

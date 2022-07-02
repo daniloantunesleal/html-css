@@ -1,0 +1,103 @@
+.btns-left{
+    min-height: 6vh!important;
+    border-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+    transition: 5s;
+}
+
+.btns-left:hover{
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;  
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important; 
+    color: #000000!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+}
+
+.btn-logout{
+    border-top:solid 5px #FFaaFF!important;
+    border-right:solid 5px #FF00aa!important;
+    background-color: #FF00FF!important;
+}
+
+.btn-logout:hover{
+    border-top:solid 0px #ff0000!important;
+    border-right:solid 0px #ff0000!important;
+    background-color: #FF00FF!important;
+    
+}
+
+.btn-ver-postagens{
+    border-top:solid 5px #00FFAA!important;
+    border-right:solid 5px #00bc09!important;
+    background-color: #00FF71!important;
+}
+
+.btn-ver-postagens:hover{
+    border-top:solid 0px #00bc09!important;
+    border-right:solid 0px #029e0a!important;
+    background-color: #00FF71!important;
+}
+
+.btn-ver-temas{
+    border-top:solid 5px #88ffff!important;
+    border-right:solid 5px #00CCFF!important;
+    background-color: #00FFFF!important;
+   
+}
+
+.btn-ver-temas:hover{
+    border-top:solid 0px #88ffff!important;
+    border-right:solid 0px #00FFAA!important;
+    background-color: #00FFFF!important;
+}
+
+
+.caixa{
+    background-color: #000000 !important;
+    min-height: 100vh!important;
+}
+
+.icone-interact{
+    transition: 0.5s;
+    background-image: url(../../assets/img/icone-principal.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+    min-height: 15vh!important;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    
+}
+
+.icone-interact2{
+    transition: 0.5s;
+    background-image: url(../../assets/img/icone-principal.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+    min-height: 60vh!important;
+    
+}
+
+
+.postagens{
+    background-color: #ffffff;
+}
+
+.titulo{
+    color: #00FFFF!important;
+    font-weight: bold!important;
+    margin: 1%!important;
+}
+
+.text-decorator-none{
+    text-decoration: none!important;
+}

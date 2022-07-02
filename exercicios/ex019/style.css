@@ -1,0 +1,30 @@
+@charset "UTF-9";
+
+body {
+    background-color: blue;
+    font: normal 15pt Arial;
+}
+h1 {
+    color: red;
+}
+h1#principal {
+    color: green;
+    text-align: center;
+    background-color: yellow;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+h2 {
+    color: rgb(250, 136, 155);
+}
+
+.basico {
+     color: green;
+     font-weight: bold;
+}
+.inter {
+    color: yellow;
+}
+.avancado {
+    color: orange;
+}

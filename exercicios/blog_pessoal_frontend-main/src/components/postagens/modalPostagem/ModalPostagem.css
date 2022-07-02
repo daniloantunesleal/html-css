@@ -1,0 +1,36 @@
+.btnModal{
+    border-top:solid 5px #00FFaa!important;
+    border-left:solid 5px #00bc09!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+}
+
+.btnModal:hover{
+    border-top:solid 0px #00bc09!important;
+    border-left:solid 0px #00bc09!important;
+    background-color: #00FF71!important;
+    border-top-right-radius: 10px!important;
+    border-bottom-right-radius: 10px!important;  
+    border-top-left-radius: 10px!important;
+    border-bottom-left-radius: 10px!important; 
+    color: #000000!important;
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+}
+.cursor{
+    cursor: pointer;
+}
+
+.close{
+    color: #00ffff;
+}
